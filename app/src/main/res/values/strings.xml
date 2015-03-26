@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpeechRecognizerExample</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="result">Result: </string>
+    <string name="btn_start">Start</string>
+</resources>
