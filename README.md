@@ -1,8 +1,8 @@
 # SpeechRecognizerExample
 An example of using android.speech API on Android devices.
-#Install
+## Install
 Install example.apk under root directory on an Android phone
-#Test
+## Test
 - Run the app
 - Click Start
 - Speak towards the phone
